@@ -1,7 +1,9 @@
 # JFXCustomCursor
 
-Create your very own complex or not cursors in JavaFX.Take a taste seeing the video below.
+Create your very own complex or not cursors in JavaFX
 
 
-## Youtube Demostration
+## Tutorial Demostration
+[![Tutorial](http://img.youtube.com/vi/6s3bvyy0v_8/0.jpg)](https://www.youtube.com/watch?v=6s3bvyy0v_8)
+
 
